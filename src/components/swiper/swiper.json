@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_swiper_swipers",
+  "info": {
+    "displayName": "Swiper"
+  },
+  "options": {},
+  "attributes": {
+    "Basic": {
+      "type": "component",
+      "repeatable": true,
+      "component": "basic.basic"
+    }
+  }
+}
